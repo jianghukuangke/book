@@ -1,0 +1,3 @@
+基于jsp+servlet+javabean+el/jstl实现图书信息的增、删、改、浏览 。
+数据库：book，表：book(bookid,bookname,author,press,price,memo)
+首页地址：http://localhost:8080/book-manage3s
